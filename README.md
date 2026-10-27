@@ -17,7 +17,7 @@
 ### 💻 Internship Experience
 
 - **SWE Intern @ [Tesla](https://www.tesla.com/)** (`Fall 2026`)
-  - Applied AI | Financial Systems · Fremont, CA
+  - Applied AI | Financial Systems
 - **SDE Intern @ [Amazon Web Services](https://aws.amazon.com/)** (`Summer 2026`)
   - AI operations for billing systems, connecting signals across distributed workflows to help diagnose failures.
 - **SWE Intern @ [Ernst & Young](https://www.ey.com/)** (`Summer 2025`)
