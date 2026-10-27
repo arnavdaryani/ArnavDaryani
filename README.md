@@ -1,46 +1,39 @@
-# Hi, I'm Arnav 👋
+<p align="left">
+  <a href="https://www.linkedin.com/in/arnavdaryani/">LinkedIn</a> ·
+  <a href="https://arnavdaryani.com/">Website</a> ·
+  <a href="mailto:arnavdaryani@gmail.com">Email</a>
+</p>
 
-I'm a senior at Purdue University studying Computer Science, with concentrations in Machine Intelligence and Algorithmic Foundations and a minor in Mathematics. I enjoy building end-to-end software and AI systems that solve challenging problems.
+<h1 align="center">Hi, I'm Arnav! 👋</h1>
 
-[Website](https://arnavdaryani.com/) · [LinkedIn](https://www.linkedin.com/in/arnav-daryani/) · [Email](mailto:arnavdaryani@gmail.com)
+### 🍀 Snapshot
 
-## 💼 Experience
+Senior studying Computer Science at Purdue, with concentrations in Machine Intelligence and Algorithmic Foundations and a minor in Mathematics. Currently a SWE intern at Tesla, previously at AWS, EY, and Ciena.
 
-### Tesla · Software Engineer Intern
-*September 2026–Present · Fremont, CA*
+I enjoy building scalable, end-to-end software and AI systems that solve challenging problems.
 
-Applied AI | Financial Systems
+### 💻 Internship Experience
 
-### Amazon Web Services · Software Development Engineer Intern
-*May–August 2026 · Arlington, VA*
+**Tesla · SWE Intern** &nbsp; `Fall 2026`<br>
+Applied AI | Financial Systems · Fremont, CA
 
-Worked on an AI operations agent for billing systems using Lambda, Bedrock, and Python. My focus was diagnosing distributed failures and connecting signals across accounts and workflows.
+**Amazon Web Services · SDE Intern** &nbsp; `Summer 2026`<br>
+Worked on an AI operations agent for billing systems, connecting signals across distributed workflows to help diagnose failures.
 
-### Ernst & Young · Software Engineer Intern
-*June–August 2025 · Chicago, IL*
+**Ernst & Young · SWE Intern** &nbsp; `Summer 2025`<br>
+Worked on automation and AI-assisted tooling for financial data and tax reporting, using Python, .NET, and Azure.
 
-Worked on automation and AI-assisted tooling for financial data and tax reporting. Built data workflows with Python, .NET, and Azure to bring information from multiple systems together.
+**Ciena · SWE Intern** &nbsp; `Summer 2024`<br>
+Worked on network protocol testing and Python automation, with a focus on IS-IS, IPv6, and routing reliability.
 
-### Ciena · Software Engineer Intern
-*June–August 2024 · Gurgaon, Haryana*
+### 🔬 Research
 
-Worked on network protocol testing and automation with Python. Focused on IS-IS, IPv6, and the reliability of routing workflows.
+**Purdue University · Undergraduate Research Assistant** &nbsp; `Jan–Aug 2026`<br>
+Studied AI adoption and graph-conditioned language models with Prof. Andres Bejarano and Prof. Dan Goldwasser.
 
-## 🔬 Research
+**Caterpillar · Undergraduate Research Assistant** &nbsp; `2023–2024`<br>
+Explored supply-chain risk through data analysis, predictive modeling, and dashboards that made risk signals easier to interpret.
 
-### Purdue University · Undergraduate Research Assistant
-*January–August 2026*
+### ✏️ Teaching · Purdue CS
 
-Explored how students use AI and how graph-based context shapes language-model predictions, working with Prof. Andres Bejarano and Prof. Dan Goldwasser. The research combined studies of AI adoption with experiments in socially grounded sentiment analysis.
-
-### Caterpillar · Undergraduate Research Assistant
-*August 2023–May 2024*
-
-Explored supply-chain risk through data analysis and predictive modeling. Combined data pipelines and dashboards to make risk signals easier to interpret.
-
-## ✏️ Teaching
-
-### Purdue University · Undergraduate Teaching Assistant
-*August 2024–August 2026*
-
-Supported courses in data structures and algorithms, computer architecture, foundations of computer science, and developer tools. These included CS 251, CS 250, CS 182, and CS 193.
+Undergraduate teaching assistant from August 2024 to August 2026, supporting Data Structures & Algorithms (CS 251), Computer Architecture (CS 250), Foundations of Computer Science (CS 182), and Tools (CS 193).
