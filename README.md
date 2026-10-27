@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Arnav! 👋</h1>
 
-### 🍀 Snapshot
+### 👋 About Me
 
 - 💻 Senior in CS @ Purdue
   - Machine Intelligence & Algorithmic Foundations · Mathematics minor
