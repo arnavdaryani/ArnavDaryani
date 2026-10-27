@@ -1,50 +1,48 @@
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnavdaryani/">LinkedIn</a> ·
-  <a href="https://arnavdaryani.com/">Website</a> ·
-  <a href="mailto:arnavdaryani@gmail.com">Email</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/arnavdaryani/)
+[![Website](https://img.shields.io/badge/Web-D4AF37?style=flat-square&logo=googlechrome&logoColor=white)](https://arnavdaryani.com/)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:arnavdaryani@gmail.com)
 
 <h1 align="center">Hi, I'm Arnav! 👋</h1>
 
-## 🍀 Snapshot
+### 🍀 Snapshot
 
-- 🎓 **Computer Science @ Purdue University**
-  - Senior concentrating in Machine Intelligence and Algorithmic Foundations, with a minor in Mathematics.
-- 💼 **SWE Intern @ Tesla** · `Fall 2026`
+- 💻 Senior in CS @ Purdue
+  - Machine Intelligence & Algorithmic Foundations · Mathematics minor
+- 💼 SWE Intern @ [Tesla](https://www.tesla.com/) (`Fall 2026`)
+  - Applied AI | Financial Systems
+- 💼 Previously @ [AWS](https://aws.amazon.com/), [EY](https://www.ey.com/), and [Ciena](https://www.ciena.com/)
+- ✏️ Previous TA @ `CS 251`, `CS 250`, `CS 182`, and `CS 193`
+- 💡 Interests: Scalable software, AI systems, and end-to-end product development
+
+### 💻 Internship Experience
+
+- **SWE Intern @ [Tesla](https://www.tesla.com/)** (`Fall 2026`)
   - Applied AI | Financial Systems · Fremont, CA
-- 💡 **Interests**
-  - Building scalable, end-to-end software and AI systems that solve challenging problems.
+- **SDE Intern @ [Amazon Web Services](https://aws.amazon.com/)** (`Summer 2026`)
+  - AI operations for billing systems, connecting signals across distributed workflows to help diagnose failures.
+- **SWE Intern @ [Ernst & Young](https://www.ey.com/)** (`Summer 2025`)
+  - Automation and AI-assisted tooling for financial data and tax reporting with Python, .NET, and Azure.
+- **SWE Intern @ [Ciena](https://www.ciena.com/)** (`Summer 2024`)
+  - Network protocol testing and Python automation, focused on IS-IS, IPv6, and routing reliability.
 
-## 💻 Internship Experience
+### 🔬 Research Experience
 
-- **Software Engineer Intern @ Tesla** · `Fall 2026`
-  - Applied AI | Financial Systems.
+- **Undergraduate Research Assistant @ Purdue University** (`January–August 2026`)
+  - AI adoption and graph-conditioned language models with Prof. Andres Bejarano and Prof. Dan Goldwasser.
+- **Undergraduate Research Assistant @ Caterpillar** (`August 2023–May 2024`)
+  - Supply-chain risk analysis through predictive modeling and dashboards that made risk signals easier to interpret.
 
-- **Software Development Engineer Intern @ Amazon Web Services** · `Summer 2026`
-  - Worked on an AI operations agent for billing systems, connecting signals across distributed workflows to help diagnose failures.
+### ✏️ Undergraduate Teaching Assistant, Purdue CS
 
-- **Software Engineer Intern @ Ernst & Young** · `Summer 2025`
-  - Worked on automation and AI-assisted tooling for financial data and tax reporting, using Python, .NET, and Azure.
+August 2024–August 2026
 
-- **Software Engineer Intern @ Ciena** · `Summer 2024`
-  - Worked on network protocol testing and Python automation, with a focus on IS-IS, IPv6, and routing reliability.
+- `CS 251`: Data Structures & Algorithms
+- `CS 250`: Computer Architecture
+- `CS 182`: Foundations of Computer Science
+- `CS 193`: Tools
 
-## 🔬 Research Experience
+### 🎓 Education
 
-- **Undergraduate Research Assistant @ Purdue University** · `Jan–Aug 2026`
-  - Studied AI adoption and graph-conditioned language models with Prof. Andres Bejarano and Prof. Dan Goldwasser.
-
-- **Undergraduate Research Assistant @ Caterpillar** · `2023–2024`
-  - Explored supply-chain risk through data analysis, predictive modeling, and dashboards that made risk signals easier to interpret.
-
-## ✏️ Teaching Experience
-
-- **Undergraduate Teaching Assistant @ Purdue CS** · `Aug 2024–Aug 2026`
-  - Supported courses in data structures, computer architecture, foundations of computer science, and developer tools.
-  - **Courses:** CS 251 · CS 250 · CS 182 · CS 193
-
-## 🎓 Education
-
-- **Purdue University · Computer Science**
+- **Computer Science @ Purdue University**, West Lafayette, IN
   - **Concentrations:** Machine Intelligence and Algorithmic Foundations
   - **Minor:** Mathematics
