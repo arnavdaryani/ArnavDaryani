@@ -38,10 +38,14 @@
 
 August 2024–August 2026
 
-- `CS 251`: Data Structures & Algorithms
-- `CS 250`: Computer Architecture
-- `CS 182`: Foundations of Computer Science
-- `CS 193`: Tools
+- `CS 251`: [Data Structures & Algorithms](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs251.html)
+- `CS 250`: [Computer Architecture](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs250.html)
+- `CS 182`: [Foundations of Computer Science](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs182.html)
+- `CS 193`: [Tools](https://github.com/Purdue-CS193)
+
+### 📚 Relevant Coursework
+
+- Operating Systems, Algorithms, Machine Learning, Systems, Databases, Real Analysis
 
 ### 🎓 Education
 
