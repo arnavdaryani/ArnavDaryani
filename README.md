@@ -27,8 +27,10 @@
 
 ### 🔬 Research Experience
 
-- **Undergraduate Research Assistant @ Purdue University** (`January–August 2026`)
-  - AI adoption and graph-conditioned language models with Prof. Andres Bejarano and Prof. Dan Goldwasser.
+- **Undergraduate Research Assistant @ Purdue University · Prof. Andres Bejarano** (`January–August 2026`)
+  - Studied how students use AI tools, focusing on adoption patterns and educational outcomes.
+- **Undergraduate Research Assistant @ Purdue University · Prof. Dan Goldwasser** (`January–August 2026`)
+  - Explored graph-conditioned language models and prompting approaches for socially grounded sentiment analysis.
 - **Undergraduate Research Assistant @ Caterpillar** (`August 2023–May 2024`)
   - Supply-chain risk analysis through predictive modeling and dashboards that made risk signals easier to interpret.
 
